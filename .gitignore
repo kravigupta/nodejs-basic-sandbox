@@ -1,0 +1,10 @@
+# all ignore of node project
+node_modules/
+dist/
+.env
+.DS_Store
+.vscode/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
